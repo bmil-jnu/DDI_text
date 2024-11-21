@@ -23,6 +23,8 @@ The dataset and source code used in the study have been provided.
   - Includes code for analyzing key sentences based on attention and for creating similarity plots.
 - Cuation
   - Since the generated data will be large, it is recommended to ensure sufficient storage space before running the code.
+  - [The embedding vector file is too large, so it is shared via Google Drive.](https://drive.google.com/file/d/10vcmjZ5c3_CjnrKKsB2K2z4ZwKtvnxTL/view?usp=drive_link)
+  - The zip file should be extracted into the `/Data` directory. 
  
 ## How to use
 
